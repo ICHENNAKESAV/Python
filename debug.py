@@ -36,3 +36,5 @@ class Solution:
 solution = Solution()
 
 print("Result for [4, -1, -3, 2, 1]:", solution.findClosestNumber([4, -1, -3, 2, 1]))
+
+print("I love Git")
